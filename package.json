@@ -1,0 +1,19 @@
+{
+  "name": "room-env-display",
+  "version": "1.0.0",
+  "description": "This is Room environment display",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Puttaku",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.15.4",
+    "node-dht-sensor": "^0.4.3"
+  },
+  "devDependencies": {
+    "electron": "^12.0.7"
+  }
+}
